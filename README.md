@@ -8,7 +8,7 @@ Design hello world
       </TITLE>
    </HEAD>
 <BODY>
-   <H1>Hello orcca<</H1>
-   <P>Saying hello orcca.</P> 
+   <H1>Hello orcca</H1>
+   <P>Saying hello Orcca. </P> 
 </BODY>
 </HTML>'
